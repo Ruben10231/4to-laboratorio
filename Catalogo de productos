@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Catálogo de productos</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1>Catálogo de productos</h1>
+    
+    <div class="product-grid">
+        <div class="medias">
+            <img src="https://www.google.com.pe/search?q=medias+de+futbol&rlz=1C2RLNS_esPE870PE942&sca_esv=4219658475e40e9f&sxsrf=ADLYWIIGNEeAiX5C9tRuv9MjoOnm-gsweA%3A1715299121659&ei=MWM9ZqTpJ9ex5OUP-pSlmAs&oq=medias&gs_lp=Egxnd3Mtd2l6LXNlcnAiBm1lZGlhcyoCCAAyDRAAGIAEGLEDGBQYhwIyChAAGIAEGEMYigUyChAAGIAEGBQYhwIyCBAAGIAEGLEDMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMgsQABiABBixAxiDATIIEAAYgAQYsQMyCBAAGIAEGLEDSM2aAVDlAVishwFwAngBkAEEmAG5AaABzA2qAQQwLjEyuAEByAEA-AEBmAIJoALPCKgCFMICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIKECMYgAQYJxiKBcICBRAAGIAEwgIHECMYJxjqAsICBxAuGCcY6gLCAhMQABiABBhDGLQCGIoFGOoC2AEBwgIEECMYJ8ICDBAjGIAEGBMYJxiKBcICChAuGIAEGEMYigXCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIOEAAYgAQYsQMYgwEYigXCAg0QLhiABBixAxhDGIoFwgIMEAAYgAQYQxiKBRgKwgINEAAYgAQYsQMYQxiKBZgDGogGAZAGCroGBggBEAEYAZIHAzIuN6AH2XY&sclient=gws-wiz-serp#vhid=adl8icI48s0kpM&vssid=l" alt="Producto 1">
+            <h2>Producto 1</h2>
+            <p>Descripción del producto 1.</p>
+            <p>Precio: $10</p>
+        </div>
+        
+        <div class="short de messi">
+            <img src="https://www.google.com.pe/search?q=short+de+messi&rlz=1C2RLNS_esPE870PE942&sca_esv=4219658475e40e9f&sxsrf=ADLYWIJPgiycjx60zxSwNLDMI7hU6B0ZIQ%3A1715298767318&ei=z2E9ZpD8Ev3E5OUPmaiDGA&oq=short+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnNob3J0ICoCCAAyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIFEAAYgAQyBRAAGIAEMgUQABiABEiqWlDeA1i5TXACeAGQAQSYAYoDoAHpG6oBCDAuMTkuMi4yuAEByAEA-AEBmAIJoALpCagCEsICChAAGLADGNYEGEfCAgQQIxgnwgIIEAAYgAQYogTCAgcQIxgnGOoCwgIHEC4YJxjqAsICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIREC4YgAQYsQMY0QMYgwEYxwHCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIOEC4YgAQYsQMYgwEYigXCAgsQABiABBixAxiDAcICDRAAGIAEGLEDGEMYigXCAg0QLhiABBixAxhDGIoFwgIKEC4YgAQYQxiKBcICExAuGIAEGLEDGNEDGEMYxwEYigXCAgsQLhiABBjHARivAcICDhAuGIAEGLEDGNEDGMcBwgILEC4YgAQYsQMY1ALCAiUQLhiABBixAxjRAxhDGIMBGMcBGIoFGJcFGNwEGN4EGOAE2AECmAMHiAYBkAYIugYGCAEQARgBugYGCAIQARgUkgcHMi42LjAuMaAH8dsB&sclient=gws-wiz-serp#vhid=z67FjhpvQeFQrM&vssid=l" alt="Producto 2">
+            <h2>Producto 2</h2>
+            <p>Descripción del producto 2.</p>
+            <p>Precio: $15</p>
+        </div>
+        
+        <div class="guantes de futbol">
+            <img src="https://images.search.yahoo.com/search/images;_ylt=AwrFYCO5YD1mcQQAaphXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=guantes+de+futbol&fr2=piv-web&type=E210US91215G0&fr=mcafee#id=1&iurl=https%3A%2F%2Fwww.diffusionsport.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fguantes_futbol_accesorios_UNO-Premier-GK-PRO-2.jpg&action=click" alt="Producto 3">
+            <h2>Producto 3</h2>
+            <p>Descripción del producto 3.</p>
+            <p>Precio: $20</p>
+        </div>
+        
+        <div class="pelota">
+            <img src="https://www.google.com.pe/search?q=bslon+de+futbol&rlz=1C2RLNS_esPE870PE942&sca_esv=4219658475e40e9f&sxsrf=ADLYWILFMkGkMS8pP0tlPFBqG6mX3n2kQA%3A1715298247981&source=hp&ei=x189ZvW5Oc3a5OUP0_mlgAo&iflsig=AL9hbdgAAAAAZj1t17Q1DOkwGH6f8NzvKeAZZTgdW17q&ved=0ahUKEwi1uYL234GGAxVNLbkGHdN8CaAQ4dUDCBU&uact=5&oq=bslon+de+futbol&gs_lp=Egdnd3Mtd2l6Ig9ic2xvbiBkZSBmdXRib2wyChAAGIAEGLEDGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGApIoyVQAFjfHXAAeACQAQCYAaABoAGVEKoBBDAuMTW4AQPIAQD4AQGYAg-gAuMQwgIKECMYgAQYJxiKBcICBBAjGCfCAhAQLhiABBjRAxjHARgnGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICCxAuGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QABiABBixAxiDARiKBcICDhAuGIAEGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAggQABiABBixA8ICBRAAGIAEwgIFEC4YgATCAg0QABiABBixAxiDARgKwgINEC4YgAQYsQMYgwEYCsICBxAuGIAEGAqYAwCSBwQwLjE1oAe1gwE&sclient=gws-wiz#vhid=I7vJ92vua6rrCM&vssid=l" alt="Producto 4">
+            <h2>Producto 4</h2>
+            <p>Descripción del producto 4.</p>
+            <p>Precio: $25</p>
+        </div>
+        
+        <div class="camiseta">
+            <img src="https://www.google.com.pe/search?q=camiseta+de+futbol&rlz=1C2RLNS_esPE870PE942&sca_esv=4219658475e40e9f&sxsrf=ADLYWIKe7rTKvFQRnkn9xc-HjjE4RXd2nA%3A1715298589231&source=hp&ei=HWE9ZoKjC8vS1sQPvcCH6A0&iflsig=AL9hbdgAAAAAZj1vLc8lu3gPtHqQd5jWI1WbBQdo461w&oq=camiseta+de+&gs_lp=Egdnd3Mtd2l6IgxjYW1pc2V0YSBkZSAqAggAMgoQABiABBgUGIcCMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyDRAAGIAEGLEDGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGLEDMggQABiABBixA0jKO1AAWKcicAF4AJABAJgB7QKgAfoOqgEIMC4xMC4xLjG4AQHIAQD4AQGYAg2gAskPwgIKEC4YgAQYJxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICChAuGIAEGEMYigXCAhYQLhiABBixAxhDGIMBGNQCGMkDGIoFwgILEAAYgAQYkgMYigXCAhAQABiABBixAxhDGIMBGIoFwgINEC4YgAQYsQMYQxiKBcICBRAuGIAEwgINEAAYgAQYQxjJAxiKBcICCxAAGIAEGLEDGIMBmAMA4gMFEgExIECSBwgxLjEwLjEuMaAH01k&sclient=gws-wiz#vhid=ZhKAI_DH1DjDzM&vssid=l" alt="Producto 5">
+            <h2>Producto 5</h2>
+            <p>Descripción del producto 5.</p>
+            <p>Precio: $30</p>
+        </div>
+        
+        <div class="chimpunes">
+            <img src="https://www.google.com.pe/search?q=chimpunes+de+messi+2023+infinito&rlz=1C2RLNS_esPE870PE942&sca_esv=4219658475e40e9f&sxsrf=ADLYWIJPUjmo1V__4I-kqx484Wfw0h4uMw%3A1715298598338&ei=JmE9ZtykFODd1sQPpNa2iAo&oq=chimpunes&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWNoaW1wdW5lcyoCCAEyChAjGIAEGCcYigUyBBAjGCcyChAjGIAEGCcYigUyChAAGIAEGEMYigUyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAAGIAEMgoQABiABBhDGIoFMgUQABiABEjipwFQ-gFY9ZgBcAJ4AZABA5gBnwGgAd8UqgEEMC4yMbgBAcgBAPgBAZgCDKACoQuoAhTCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBxAjGCcY6gLCAgcQLhgnGOoCwgITEAAYgAQYQxi0AhiKBRjqAtgBAcICChAuGIAEGCcYigXCAg0QLhiABBixAxhDGIoFwgIKEC4YgAQYQxiKBcICEBAAGIAEGLEDGEMYgwEYigXCAhcQLhiABBiKBRiXBRjcBBjeBBjgBNgBAsICDRAAGIAEGLEDGEMYigXCAhAQLhiABBixAxhDGIMBGIoFmAMXiAYBkAYKugYGCAEQARgBugYGCAIQARgUkgcEMi4xMKAHk-cB&sclient=gws-wiz-serp#vhid=HyhkiXhgDa4PbM&vssid=l" alt="Producto 6">
+            <h2>Producto 6</h2>
+            <p>Descripción del producto 6.</p>
+            <p>Precio: $35</p>
+        </div>
+    </div>
+</body>
+</html>
